@@ -1,5 +1,5 @@
 
-# Backend of TravelWorld 🌍
+# Backend of Traveller 🌍
 
 A Fullstack Tours & Travels Web App Using MERN Stack 💫
 

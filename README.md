@@ -17,8 +17,6 @@ A Fullstack Tours & Travels Web App Using MERN Stack 💫
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 
-![image](https://github.com/shuence/FitClub/assets/65482186/4c863ee9-2e02-4e98-95c0-e122cf91320e)
-
 ## Setup
 
 To Setup this project run
